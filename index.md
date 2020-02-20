@@ -4,7 +4,7 @@ Auspiciously blessed by the steps of devotees and pilgrims from all over the wor
 <h2>What can be your first experiences in Rishikesh?</h2>
 <ul>
 <li>The presence of the Ganges and the magnificent mountains would render you spellbound with its holiness and extends a light of divinity in your mind.</li>
-<li>Rishikesh has a buzzing atmosphere wherein you can find innumerable temples, yoga schools, daily drop-in yoga classes, <a href="https://rishikeshvinyasayogaschool.com/"yoga training></a> classes, and also yoga groups. The life in Rishikesh is significantly busy.</li>
+<li>Rishikesh has a buzzing atmosphere wherein you can find innumerable temples, yoga schools, daily drop-in yoga classes, <a href="https://rishikeshvinyasayogaschool.com/">yoga training</a> classes, and also yoga groups. The life in Rishikesh is significantly busy.</li>
 <li>It is one of the best destinations for tourists as well. It offers the perfect ambiance for the local tourists to explore this place with a calm, composed, and unified approach.</li>
 <li>You can experience the enchanting aura of the prayers and group orisons while you participate in any cultural and religious activity in Rishikesh. The Ganges Aarti is one such event. It is a ritual that makes use of fire as an offering. The Parmarth Aarti and Triveni ghat Aarti is also in the list.</li> 
 <li>There are Ashrams which offer yogic food at a minimal price. It can be experienced in Parmarth Ashram, Gita Ashram, and Sachidanand Ashram.</li></ul>
