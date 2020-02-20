@@ -1,7 +1,7 @@
 <h1>Explore Life in Rishikesh</h1>
 Auspiciously blessed by the steps of devotees and pilgrims from all over the world, Rishikesh stands as mute testimony to the definition of a peaceful life. Being the first choice for all yoga lovers around the globe, Rishikesh has an aura that fills our soul with contentment. With its numerous ghats and ashrams located along the periphery of the Himalayas, this place filters out the hustle and bustling noise of the cities. Life in Rishikesh can have several twists depending on the purpose of your visit.
 <p>Scroll to explore about the Life in Rishikesh with us.</p>
-<img src="https://rishikeshvinyasayogaschool.com/wp-content/uploads/2018/12/300.jpg" alt="yoga training"></img>
+<img src="https://rishikeshvinyasayogaschool.com/wp-content/uploads/2018/12/300.jpg" alt="yoga training"</img>
 <h2>What can be your first experiences in Rishikesh?</h2>
 <ul>
 <li>The presence of the Ganges and the magnificent mountains would render you spellbound with its holiness and extends a light of divinity in your mind.</li>
