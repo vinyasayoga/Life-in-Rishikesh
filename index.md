@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/vinyasayoga/Life-in-Rishikesh/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vinyasayoga/Life-in-Rishikesh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Auspiciously blessed by the steps of devotees and pilgrims from all over the world, Rishikesh stands as mute testimony to the definition of a peaceful life. Being the first choice for all yoga lovers around the globe, Rishikesh has an aura that fills our soul with contentment. With its numerous ghats and ashrams located along the periphery of the Himalayas, this place filters out the hustle and bustling noise of the cities. Life in Rishikesh can have several twists depending on the purpose of your visit.
+<p>Scroll to explore about the Life in Rishikesh with us.</p>
+<img src="https://rishikeshvinyasayogaschool.com/wp-content/uploads/2018/12/300.jpg" alt="yoga training"></img>
+<h2>What can be your first experiences in Rishikesh?</h2>
+<ul>
+<li>The presence of the Ganges and the magnificent mountains would render you spellbound with its holiness and extends a light of divinity in your mind.</li>
+<li>Rishikesh has a buzzing atmosphere wherein you can find innumerable temples, yoga schools, daily drop-in yoga classes, <a href="https://rishikeshvinyasayogaschool.com/>"yoga training</a> classes, and also yoga groups. The life in Rishikesh is significantly busy.</li>
+<li>It is one of the best destinations for tourists as well. It offers the perfect ambiance for the local tourists to explore this place with a calm, composed, and unified approach.</li>
+<li>You can experience the enchanting aura of the prayers and group orisons while you participate in any cultural and religious activity in Rishikesh. The Ganges Aarti is one such event. It is a ritual that makes use of fire as an offering. The Parmarth Aarti and Triveni ghat Aarti is also in the list.</li> 
+<li>There are Ashrams which offer yogic food at a minimal price. It can be experienced in Parmarth Ashram, Gita Ashram, and Sachidanand Ashram.</li></ul>
+<h3>What if your plan is for several years?</h3>
+<ul>
+<li>Apart from the calm and composed environment, we also tend to search for a place that promises growth and education for our lifestyle. Dive in to explore the Life in Rishikesh for people who are planning to settle down here.</li>
+<li>Confronting up with the Education facilities, Rishikesh has a decent level of these facilities up to grade 12. But, the place is not preferred for higher studies and job opportunities. You can switch over to Roorkee, Dehradun, or Delhi for more significant opportunities.</li>
+<li>If you are a shopaholic person and enjoy going to malls, multiplexes, and restaurants, then Rishikesh is not a place for you.</li></ul>
+<h4>The Final Word</h4>
+<p>Rishikesh is a beautiful place for you if you want to experience a life that is always away from all the push and pull of a typical Indian metro city. Explore your preferences to experience a vine that fits you well.</p>
